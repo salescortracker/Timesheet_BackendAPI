@@ -1,0 +1,15 @@
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\DataAccess_Layer\bin\Debug\net8.0\DataAccess_Layer.deps.json
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\DataAccess_Layer\bin\Debug\net8.0\DataAccess_Layer.runtimeconfig.json
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\DataAccess_Layer\bin\Debug\net8.0\DataAccess_Layer.dll
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\DataAccess_Layer\bin\Debug\net8.0\DataAccess_Layer.pdb
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\DataAccess_Layer\obj\Debug\net8.0\DataAccess_Layer.csproj.AssemblyReference.cache
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\DataAccess_Layer\obj\Debug\net8.0\DataAccess_Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\DataAccess_Layer\obj\Debug\net8.0\DataAccess_Layer.AssemblyInfoInputs.cache
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\DataAccess_Layer\obj\Debug\net8.0\DataAccess_Layer.AssemblyInfo.cs
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\DataAccess_Layer\obj\Debug\net8.0\DataAccess_Layer.csproj.CoreCompileInputs.cache
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\DataAccess_Layer\obj\Debug\net8.0\DataAccess_Layer.sourcelink.json
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\DataAccess_Layer\obj\Debug\net8.0\DataAccess_Layer.dll
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\DataAccess_Layer\obj\Debug\net8.0\refint\DataAccess_Layer.dll
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\DataAccess_Layer\obj\Debug\net8.0\DataAccess_Layer.pdb
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\DataAccess_Layer\obj\Debug\net8.0\DataAccess_Layer.genruntimeconfig.cache
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\DataAccess_Layer\obj\Debug\net8.0\ref\DataAccess_Layer.dll

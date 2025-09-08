@@ -1,0 +1,12 @@
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\Business_Layer\bin\Debug\net8.0\Business_Layer.deps.json
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\Business_Layer\bin\Debug\net8.0\Business_Layer.dll
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\Business_Layer\bin\Debug\net8.0\Business_Layer.pdb
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\Business_Layer\obj\Debug\net8.0\Business_Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\Business_Layer\obj\Debug\net8.0\Business_Layer.AssemblyInfoInputs.cache
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\Business_Layer\obj\Debug\net8.0\Business_Layer.AssemblyInfo.cs
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\Business_Layer\obj\Debug\net8.0\Business_Layer.csproj.CoreCompileInputs.cache
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\Business_Layer\obj\Debug\net8.0\Business_Layer.sourcelink.json
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\Business_Layer\obj\Debug\net8.0\Business_Layer.dll
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\Business_Layer\obj\Debug\net8.0\refint\Business_Layer.dll
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\Business_Layer\obj\Debug\net8.0\Business_Layer.pdb
+D:\TimeSheet_Project\LatestStructureproject\Timesheet_BackendAPI\Business_Layer\obj\Debug\net8.0\ref\Business_Layer.dll
