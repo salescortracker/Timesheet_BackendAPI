@@ -224,6 +224,10 @@
               "target": "Package",
               "version": "[9.0.8, )"
             },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
@@ -280,7 +284,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\DataAccess_Layer\\DataAccess_Layer.csproj": {
+                "projectPath": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\DataAccess_Layer\\DataAccess_Layer.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -302,6 +310,10 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
             },
             "coverlet.collector": {
               "target": "Package",

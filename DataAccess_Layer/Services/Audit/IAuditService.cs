@@ -11,9 +11,9 @@ namespace DataAccess_Layer.Services.Audit
     {
         Task<IEnumerable<Auditlog>> GetAllAsync();
         Task<Auditlog?> GetAsync(int id);
-        Task AddAsync(Auditlog audit);
-        Task UpdateAsync(Auditlog audit);
-        Task DeleteAsync(int id);
+        Task<Auditlog> CreateAsync(Auditlog audit);
+        Task<bool> UpdateAsync(Auditlog dto);
+        Task<bool> DeleteAsync(int id);
         Task SaveAsync();
     }
 }

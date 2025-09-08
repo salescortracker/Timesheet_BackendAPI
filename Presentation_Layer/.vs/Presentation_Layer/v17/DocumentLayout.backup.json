@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\Presentation_Layer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25319ABD-5589-4116-B493-6519751A47C4}|..\\UnittestCase\\UnittestCase.csproj|d:\\timesheet_project\\lateststructureproject\\timesheet_backendapi\\unittestcase\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAABF6C-B878-4779-AEFC-5581DE9E0E86}|..\\DataAccess_Layer\\DataAccess_Layer.csproj|d:\\timesheet_project\\lateststructureproject\\timesheet_backendapi\\dataaccess_layer\\services\\audit\\auditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB10F1A3-8932-50EC-249A-BB022F5A688F}|Presentation_Layer.csproj|d:\\timesheet_project\\lateststructureproject\\timesheet_backendapi\\presentation_layer\\controllers\\auditlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB10F1A3-8932-50EC-249A-BB022F5A688F}|Presentation_Layer.csproj|solutionrelative:controllers\\auditlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAABF6C-B878-4779-AEFC-5581DE9E0E86}|..\\DataAccess_Layer\\DataAccess_Layer.csproj|d:\\timesheet_project\\lateststructureproject\\timesheet_backendapi\\dataaccess_layer\\services\\audit\\iauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAABF6C-B878-4779-AEFC-5581DE9E0E86}|..\\DataAccess_Layer\\DataAccess_Layer.csproj|d:\\timesheet_project\\lateststructureproject\\timesheet_backendapi\\dataaccess_layer\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAABF6C-B878-4779-AEFC-5581DE9E0E86}|..\\DataAccess_Layer\\DataAccess_Layer.csproj|d:\\timesheet_project\\lateststructureproject\\timesheet_backendapi\\dataaccess_layer\\repository\\audit\\iauditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAABF6C-B878-4779-AEFC-5581DE9E0E86}|..\\DataAccess_Layer\\DataAccess_Layer.csproj|d:\\timesheet_project\\lateststructureproject\\timesheet_backendapi\\dataaccess_layer\\repository\\audit\\auditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB10F1A3-8932-50EC-249A-BB022F5A688F}|Presentation_Layer.csproj|d:\\timesheet_project\\lateststructureproject\\timesheet_backendapi\\presentation_layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB10F1A3-8932-50EC-249A-BB022F5A688F}|Presentation_Layer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB10F1A3-8932-50EC-249A-BB022F5A688F}|Presentation_Layer.csproj|d:\\timesheet_project\\lateststructureproject\\timesheet_backendapi\\presentation_layer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB10F1A3-8932-50EC-249A-BB022F5A688F}|Presentation_Layer.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2C7D21-FF9E-49CD-802B-F8DCB5476936}|..\\Business_Layer\\Business_Layer.csproj|d:\\timesheet_project\\lateststructureproject\\timesheet_backendapi\\business_layer\\models\\auditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB10F1A3-8932-50EC-249A-BB022F5A688F}|Presentation_Layer.csproj|d:\\timesheet_project\\lateststructureproject\\timesheet_backendapi\\presentation_layer\\presentation_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB10F1A3-8932-50EC-249A-BB022F5A688F}|Presentation_Layer.csproj|solutionrelative:presentation_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAABF6C-B878-4779-AEFC-5581DE9E0E86}|..\\DataAccess_Layer\\DataAccess_Layer.csproj|d:\\timesheet_project\\lateststructureproject\\timesheet_backendapi\\dataaccess_layer\\models\\timesheetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Auditlog.cs",
+              "DocumentMoniker": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\DataAccess_Layer\\Models\\Auditlog.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess_Layer\\Models\\Auditlog.cs",
+              "ToolTip": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\DataAccess_Layer\\Models\\Auditlog.cs",
+              "RelativeToolTip": "..\\DataAccess_Layer\\Models\\Auditlog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:16:33.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\Presentation_Layer\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\Presentation_Layer\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-08T12:08:16.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\Presentation_Layer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\Presentation_Layer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:07:55.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuditLogController.cs",
+              "DocumentMoniker": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\Presentation_Layer\\Controllers\\AuditLogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuditLogController.cs",
+              "ToolTip": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\Presentation_Layer\\Controllers\\AuditLogController.cs",
+              "RelativeToolTip": "Controllers\\AuditLogController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwDcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:07:20.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuditService.cs",
+              "DocumentMoniker": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\DataAccess_Layer\\Services\\Audit\\IAuditService.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess_Layer\\Services\\Audit\\IAuditService.cs",
+              "ToolTip": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\DataAccess_Layer\\Services\\Audit\\IAuditService.cs",
+              "RelativeToolTip": "..\\DataAccess_Layer\\Services\\Audit\\IAuditService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:06:04.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuditService.cs",
+              "DocumentMoniker": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\DataAccess_Layer\\Services\\Audit\\AuditService.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess_Layer\\Services\\Audit\\AuditService.cs",
+              "ToolTip": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\DataAccess_Layer\\Services\\Audit\\AuditService.cs",
+              "RelativeToolTip": "..\\DataAccess_Layer\\Services\\Audit\\AuditService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:05:39.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuditRepository.cs",
+              "DocumentMoniker": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\DataAccess_Layer\\Repository\\Audit\\IAuditRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess_Layer\\Repository\\Audit\\IAuditRepository.cs",
+              "ToolTip": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\DataAccess_Layer\\Repository\\Audit\\IAuditRepository.cs",
+              "RelativeToolTip": "..\\DataAccess_Layer\\Repository\\Audit\\IAuditRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:05:13.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuditRepository.cs",
+              "DocumentMoniker": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\DataAccess_Layer\\Repository\\Audit\\AuditRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess_Layer\\Repository\\Audit\\AuditRepository.cs",
+              "ToolTip": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\DataAccess_Layer\\Repository\\Audit\\AuditRepository.cs",
+              "RelativeToolTip": "..\\DataAccess_Layer\\Repository\\Audit\\AuditRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:04:27.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\UnittestCase\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\UnittestCase\\UnitTest1.cs",
+              "ToolTip": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\UnittestCase\\UnitTest1.cs",
+              "RelativeToolTip": "..\\UnittestCase\\UnitTest1.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwFkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:54:54.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuditDTO.cs",
+              "DocumentMoniker": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\Business_Layer\\Models\\AuditDTO.cs",
+              "RelativeDocumentMoniker": "..\\Business_Layer\\Models\\AuditDTO.cs",
+              "ToolTip": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\Business_Layer\\Models\\AuditDTO.cs",
+              "RelativeToolTip": "..\\Business_Layer\\Models\\AuditDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:03:08.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TimeSheetContext.cs",
+              "DocumentMoniker": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\DataAccess_Layer\\Models\\TimeSheetContext.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess_Layer\\Models\\TimeSheetContext.cs",
+              "ToolTip": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\DataAccess_Layer\\Models\\TimeSheetContext.cs",
+              "RelativeToolTip": "..\\DataAccess_Layer\\Models\\TimeSheetContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:00:29.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Presentation_Layer.csproj",
+              "DocumentMoniker": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\Presentation_Layer\\Presentation_Layer.csproj",
+              "RelativeDocumentMoniker": "Presentation_Layer.csproj",
+              "ToolTip": "D:\\TimeSheet_Project\\LatestStructureproject\\Timesheet_BackendAPI\\Presentation_Layer\\Presentation_Layer.csproj",
+              "RelativeToolTip": "Presentation_Layer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-08T11:55:08.611Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

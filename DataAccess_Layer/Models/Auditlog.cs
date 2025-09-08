@@ -5,7 +5,7 @@ namespace DataAccess_Layer.Models;
 
 public partial class Auditlog
 {
-    public long AuditId { get; set; }
+    public int AuditId { get; set; }
 
     public int? UserId { get; set; }
 

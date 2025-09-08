@@ -37,8 +37,8 @@ namespace Presentation_Layer.Controllers
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] Auditlog audit)
         {
-            var created = _service.AddAsync(audit);
-            return CreatedAtAction(nameof(Get), new { id = created.Id }, created);
+            var created =await _service.CreateAsync(audit);
+            return CreatedAtAction(nameof(Get), new { id = created.AuditId }, created);
         }
 
         [HttpPut("{id}")]
